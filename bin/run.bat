@@ -1,0 +1,1 @@
+mysqld.exe --defaults-file=data\my.ini --standalone

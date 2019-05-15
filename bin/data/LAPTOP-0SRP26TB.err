@@ -1,0 +1,510 @@
+2019-04-23 14:19:54 0 [Note] InnoDB: The first innodb_system data file 'ibdata1' did not exist. A new tablespace will be created!
+2019-04-23 14:19:54 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-04-23 14:19:54 0 [Note] InnoDB: Uses event mutexes
+2019-04-23 14:19:54 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-23 14:19:54 0 [Note] InnoDB: Number of pools: 1
+2019-04-23 14:19:54 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-23 14:19:54 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-23 14:19:54 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-23 14:19:54 0 [Note] InnoDB: Setting file '.\ibdata1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-23 14:19:54 0 [Note] InnoDB: File '.\ibdata1' size is now 12 MB.
+2019-04-23 14:19:54 0 [Note] InnoDB: Setting log file .\ib_logfile101 size to 50331648 bytes
+2019-04-23 14:19:54 0 [Note] InnoDB: Setting log file .\ib_logfile1 size to 50331648 bytes
+2019-04-23 14:19:54 0 [Note] InnoDB: Renaming log file .\ib_logfile101 to .\ib_logfile0
+2019-04-23 14:19:54 0 [Note] InnoDB: New log files created, LSN=45786
+2019-04-23 14:19:54 0 [Note] InnoDB: Doublewrite buffer not found: creating new
+2019-04-23 14:19:54 0 [Note] InnoDB: Doublewrite buffer created
+2019-04-23 14:19:54 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-23 14:19:54 0 [Note] InnoDB: Creating foreign key constraint system tables.
+2019-04-23 14:19:54 0 [Note] InnoDB: Creating tablespace and datafile system tables.
+2019-04-23 14:19:54 0 [Note] InnoDB: Creating sys_virtual system tables.
+2019-04-23 14:19:54 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-23 14:19:54 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-23 14:19:54 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-04-23 14:19:54 0 [Note] InnoDB: Waiting for purge to start
+2019-04-23 14:19:54 0 [Note] InnoDB: 10.3.14 started; log sequence number 0; transaction id 7
+2019-04-23 14:19:55 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-23 14:20:39 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-04-23 14:20:39 0 [Note] InnoDB: Uses event mutexes
+2019-04-23 14:20:39 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-23 14:20:39 0 [Note] InnoDB: Number of pools: 1
+2019-04-23 14:20:39 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-23 14:20:39 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-23 14:20:39 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-23 14:20:41 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-23 14:20:41 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-23 14:20:41 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-23 14:20:41 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-04-23 14:20:41 0 [Note] InnoDB: Waiting for purge to start
+2019-04-23 14:20:41 0 [Note] InnoDB: 10.3.14 started; log sequence number 1630815; transaction id 21
+2019-04-23 14:20:41 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-04-23 14:20:41 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-23 14:20:41 0 [Note] Server socket created on IP: '::'.
+2019-04-23 14:20:41 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+
+2019-04-23 14:20:41 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2019-04-23 14:20:41 0 [ERROR] Aborting
+
+2019-04-23 14:30:27 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-04-23 14:30:27 0 [Note] InnoDB: Uses event mutexes
+2019-04-23 14:30:27 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-23 14:30:27 0 [Note] InnoDB: Number of pools: 1
+2019-04-23 14:30:27 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-23 14:30:27 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-23 14:30:27 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-23 14:30:27 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-23 14:30:27 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-23 14:30:27 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-23 14:30:27 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-04-23 14:30:27 0 [Note] InnoDB: Waiting for purge to start
+2019-04-23 14:30:27 0 [Note] InnoDB: 10.3.14 started; log sequence number 1630824; transaction id 21
+2019-04-23 14:30:27 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-04-23 14:30:27 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-23 14:30:27 0 [Note] Server socket created on IP: '::'.
+2019-04-23 14:30:27 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+
+2019-04-23 14:30:27 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2019-04-23 14:30:27 0 [ERROR] Aborting
+
+2019-04-23 14:30:34 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-04-23 14:30:34 0 [Note] InnoDB: Uses event mutexes
+2019-04-23 14:30:34 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-23 14:30:34 0 [Note] InnoDB: Number of pools: 1
+2019-04-23 14:30:34 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-23 14:30:34 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-23 14:30:34 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-23 14:30:35 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-23 14:30:35 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-23 14:30:35 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-23 14:30:35 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-04-23 14:30:35 0 [Note] InnoDB: Waiting for purge to start
+2019-04-23 14:30:35 0 [Note] InnoDB: 10.3.14 started; log sequence number 1630833; transaction id 21
+2019-04-23 14:30:35 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-04-23 14:30:35 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-23 14:30:35 0 [Note] Server socket created on IP: '::'.
+2019-04-23 14:30:35 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+
+2019-04-23 14:30:35 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2019-04-23 14:30:35 0 [ERROR] Aborting
+
+2019-04-23 14:30:35 0 [Note] InnoDB: Buffer pool(s) load completed at 190423 14:30:35
+2019-04-23 14:31:28 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-04-23 14:31:28 0 [Note] InnoDB: Uses event mutexes
+2019-04-23 14:31:28 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-23 14:31:28 0 [Note] InnoDB: Number of pools: 1
+2019-04-23 14:31:28 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-23 14:31:28 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-23 14:31:28 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-23 14:31:28 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-23 14:31:28 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-23 14:31:28 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-23 14:31:28 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-04-23 14:31:28 0 [Note] InnoDB: Waiting for purge to start
+2019-04-23 14:31:28 0 [Note] InnoDB: 10.3.14 started; log sequence number 1630842; transaction id 21
+2019-04-23 14:31:28 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-04-23 14:31:28 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-23 14:31:28 0 [Note] Server socket created on IP: '::'.
+2019-04-23 14:31:28 0 [Note] InnoDB: Buffer pool(s) load completed at 190423 14:31:28
+2019-04-23 14:31:28 0 [Note] Reading of all Master_info entries succeded
+2019-04-23 14:31:28 0 [Note] Added new Master_info '' to hash table
+2019-04-23 14:31:28 0 [Note] mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-04-23 14:43:07 10 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2019-04-23 14:46:12 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-04-23 14:46:12 0 [Note] InnoDB: Uses event mutexes
+2019-04-23 14:46:12 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-23 14:46:12 0 [Note] InnoDB: Number of pools: 1
+2019-04-23 14:46:12 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-23 14:46:12 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-23 14:46:12 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-23 14:46:12 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1630842
+2019-04-23 14:46:13 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-23 14:46:13 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-04-23 14:46:13 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-23 14:46:13 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-23 14:46:13 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-04-23 14:46:13 0 [Note] InnoDB: Waiting for purge to start
+2019-04-23 14:46:13 0 [Note] InnoDB: 10.3.14 started; log sequence number 1630851; transaction id 21
+2019-04-23 14:46:13 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-04-23 14:46:13 0 [Note] InnoDB: Buffer pool(s) load completed at 190423 14:46:13
+2019-04-23 14:46:13 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-23 14:46:13 0 [Note] Server socket created on IP: '::'.
+2019-04-23 14:46:13 0 [ERROR] mysqld.exe: Table '.\mysql\user' is marked as crashed and should be repaired
+2019-04-23 14:46:13 0 [Warning] Checking table:   '.\mysql\user'
+2019-04-23 14:46:13 0 [ERROR] mysql.user: 1 client is using or hasn't closed the table properly
+2019-04-23 14:46:13 0 [Note] Reading of all Master_info entries succeded
+2019-04-23 14:46:13 0 [Note] Added new Master_info '' to hash table
+2019-04-23 14:46:13 0 [Note] mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-04-26  9:53:24 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-04-26  9:53:24 0 [Note] InnoDB: Uses event mutexes
+2019-04-26  9:53:24 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-26  9:53:24 0 [Note] InnoDB: Number of pools: 1
+2019-04-26  9:53:24 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-26  9:53:24 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-26  9:53:24 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-26  9:53:24 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1745161
+2019-04-26  9:53:25 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-26  9:53:25 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-04-26  9:53:25 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-26  9:53:25 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-26  9:53:25 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-04-26  9:53:25 0 [Note] InnoDB: Waiting for purge to start
+2019-04-26  9:53:25 0 [Note] InnoDB: 10.3.14 started; log sequence number 1745170; transaction id 122
+2019-04-26  9:53:25 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-04-26  9:53:26 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-26  9:53:26 0 [Note] InnoDB: Buffer pool(s) load completed at 190426  9:53:26
+2019-04-26  9:53:26 0 [Note] Server socket created on IP: '::'.
+2019-04-26  9:53:26 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+
+2019-04-26  9:53:26 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2019-04-26  9:53:26 0 [ERROR] Aborting
+
+2019-04-26  9:55:43 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-04-26  9:55:43 0 [Note] InnoDB: Uses event mutexes
+2019-04-26  9:55:43 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-26  9:55:43 0 [Note] InnoDB: Number of pools: 1
+2019-04-26  9:55:43 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-26  9:55:43 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-26  9:55:43 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-26  9:55:44 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-26  9:55:44 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-26  9:55:44 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-26  9:55:44 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-04-26  9:55:44 0 [Note] InnoDB: Waiting for purge to start
+2019-04-26  9:55:44 0 [Note] InnoDB: 10.3.14 started; log sequence number 1745179; transaction id 122
+2019-04-26  9:55:44 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-04-26  9:55:44 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-26  9:55:44 0 [Note] Server socket created on IP: '::'.
+2019-04-26  9:55:44 0 [Note] InnoDB: Buffer pool(s) load completed at 190426  9:55:44
+2019-04-26  9:55:44 0 [Note] Reading of all Master_info entries succeded
+2019-04-26  9:55:44 0 [Note] Added new Master_info '' to hash table
+2019-04-26  9:55:44 0 [Note] mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-04-26 16:08:34 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-04-26 16:08:34 0 [Note] InnoDB: Uses event mutexes
+2019-04-26 16:08:34 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-26 16:08:34 0 [Note] InnoDB: Number of pools: 1
+2019-04-26 16:08:34 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-26 16:08:34 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-26 16:08:34 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-26 16:08:34 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1745179
+2019-04-26 16:08:35 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-26 16:08:35 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-04-26 16:08:35 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-26 16:08:35 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-26 16:08:35 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-04-26 16:08:35 0 [Note] InnoDB: Waiting for purge to start
+2019-04-26 16:08:35 0 [Note] InnoDB: 10.3.14 started; log sequence number 1745188; transaction id 122
+2019-04-26 16:08:35 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-04-26 16:08:35 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-26 16:08:35 0 [Note] InnoDB: Buffer pool(s) load completed at 190426 16:08:35
+2019-04-26 16:08:35 0 [Note] Server socket created on IP: '::'.
+2019-04-26 16:08:35 0 [Note] Reading of all Master_info entries succeded
+2019-04-26 16:08:35 0 [Note] Added new Master_info '' to hash table
+2019-04-26 16:08:35 0 [Note] mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-04-26 16:08:40 8 [Warning] Access denied for user 'fur_model'@'localhost' (using password: YES)
+2019-04-26 16:15:16 17 [Warning] Aborted connection 17 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-04-26 16:16:22 21 [Warning] Aborted connection 21 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-04-26 16:35:04 22 [Warning] Aborted connection 22 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-04-26 16:35:31 23 [Warning] Aborted connection 23 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-04-26 16:36:15 24 [Warning] Aborted connection 24 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05  9:28:05 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-05-05  9:28:05 0 [Note] InnoDB: Uses event mutexes
+2019-05-05  9:28:05 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-05-05  9:28:05 0 [Note] InnoDB: Number of pools: 1
+2019-05-05  9:28:05 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-05-05  9:28:05 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-05-05  9:28:05 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-05-05  9:28:05 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1817940
+2019-05-05  9:28:06 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-05-05  9:28:06 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-05-05  9:28:06 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-05-05  9:28:06 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-05-05  9:28:06 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-05-05  9:28:06 0 [Note] InnoDB: Waiting for purge to start
+2019-05-05  9:28:06 0 [Note] InnoDB: 10.3.14 started; log sequence number 1817949; transaction id 201
+2019-05-05  9:28:06 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-05-05  9:28:06 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-05-05  9:28:06 0 [Note] InnoDB: Buffer pool(s) load completed at 190505  9:28:06
+2019-05-05  9:28:06 0 [Note] Server socket created on IP: '::'.
+2019-05-05  9:28:06 0 [ERROR] mysqld.exe: Table '.\mysql\user' is marked as crashed and should be repaired
+2019-05-05  9:28:06 0 [Warning] Checking table:   '.\mysql\user'
+2019-05-05  9:28:06 0 [ERROR] mysql.user: 1 client is using or hasn't closed the table properly
+2019-05-05  9:28:06 0 [ERROR] mysqld.exe: Table '.\mysql\db' is marked as crashed and should be repaired
+2019-05-05  9:28:06 0 [Warning] Checking table:   '.\mysql\db'
+2019-05-05  9:28:06 0 [ERROR] mysql.db: 1 client is using or hasn't closed the table properly
+2019-05-05  9:28:06 0 [Note] Reading of all Master_info entries succeded
+2019-05-05  9:28:06 0 [Note] Added new Master_info '' to hash table
+2019-05-05  9:28:06 0 [Note] mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-05-05  9:39:46 10 [Warning] Aborted connection 10 to db: 'fur_model_db' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2019-05-05  9:39:46 8 [Warning] Aborted connection 8 to db: 'unconnected' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2019-05-05  9:39:46 15 [Warning] Aborted connection 15 to db: 'fur_model_db' user: 'root' host: 'localhost' (Lock wait timeout exceeded; try restarting transaction)
+2019-05-05  9:41:11 16 [Warning] Aborted connection 16 to db: 'unconnected' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2019-05-05  9:41:11 18 [Warning] Aborted connection 18 to db: 'fur_model_db' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2019-05-05  9:41:11 17 [Warning] Aborted connection 17 to db: 'fur_model_db' user: 'root' host: 'localhost' (Lock wait timeout exceeded; try restarting transaction)
+2019-05-05  9:41:37 19 [Warning] Aborted connection 19 to db: 'unconnected' user: 'root' host: 'localhost' (Lock wait timeout exceeded; try restarting transaction)
+2019-05-05  9:42:37 21 [Warning] Aborted connection 21 to db: 'unconnected' user: 'root' host: 'localhost' (Lock wait timeout exceeded; try restarting transaction)
+2019-05-05  9:43:49 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-05-05  9:43:49 0 [Note] InnoDB: Uses event mutexes
+2019-05-05  9:43:49 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-05-05  9:43:49 0 [Note] InnoDB: Number of pools: 1
+2019-05-05  9:43:49 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-05-05  9:43:49 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-05-05  9:43:49 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-05-05  9:43:49 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1905567
+2019-05-05  9:43:50 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-05-05  9:43:50 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-05-05  9:43:50 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-05-05  9:43:50 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-05-05  9:43:50 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-05-05  9:43:50 0 [Note] InnoDB: Waiting for purge to start
+2019-05-05  9:43:50 0 [Note] InnoDB: 10.3.14 started; log sequence number 1905576; transaction id 323
+2019-05-05  9:43:50 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-05-05  9:43:50 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-05-05  9:43:50 0 [Note] Server socket created on IP: '::'.
+2019-05-05  9:43:50 0 [Note] InnoDB: Buffer pool(s) load completed at 190505  9:43:50
+2019-05-05  9:43:50 0 [Note] Reading of all Master_info entries succeded
+2019-05-05  9:43:50 0 [Note] Added new Master_info '' to hash table
+2019-05-05  9:43:50 0 [Note] mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-05-05  9:53:00 17 [Warning] Aborted connection 17 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05  9:59:33 18 [Warning] Aborted connection 18 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 10:36:44 19 [Warning] Aborted connection 19 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 15:49:03 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-05-05 15:49:03 0 [Note] InnoDB: Uses event mutexes
+2019-05-05 15:49:03 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-05-05 15:49:03 0 [Note] InnoDB: Number of pools: 1
+2019-05-05 15:49:03 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-05-05 15:49:03 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-05-05 15:49:03 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-05-05 15:49:03 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=2051132
+2019-05-05 15:49:04 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-05-05 15:49:04 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-05-05 15:49:04 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-05-05 15:49:04 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-05-05 15:49:04 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-05-05 15:49:04 0 [Note] InnoDB: Waiting for purge to start
+2019-05-05 15:49:04 0 [Note] InnoDB: 10.3.14 started; log sequence number 2051141; transaction id 497
+2019-05-05 15:49:04 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-05-05 15:49:04 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-05-05 15:49:04 0 [Note] Server socket created on IP: '::'.
+2019-05-05 15:49:04 0 [Note] Reading of all Master_info entries succeded
+2019-05-05 15:49:04 0 [Note] Added new Master_info '' to hash table
+2019-05-05 15:49:04 0 [Note] mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-05-05 15:49:04 0 [Note] InnoDB: Buffer pool(s) load completed at 190505 15:49:04
+2019-05-05 15:57:32 9 [Warning] Aborted connection 9 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 16:25:56 12 [Warning] Aborted connection 12 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 16:26:21 13 [Warning] Aborted connection 13 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 16:47:00 14 [Warning] Aborted connection 14 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 19:47:45 15 [Warning] Aborted connection 15 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 20:42:11 16 [Warning] Aborted connection 16 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 20:45:29 17 [Warning] Aborted connection 17 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 20:46:34 18 [Warning] Aborted connection 18 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 21:07:38 19 [Warning] Aborted connection 19 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 21:24:43 20 [Warning] Aborted connection 20 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 21:28:35 21 [Warning] Aborted connection 21 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 21:30:24 22 [Warning] Aborted connection 22 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 21:32:41 23 [Warning] Aborted connection 23 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 21:33:19 24 [Warning] Aborted connection 24 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 21:35:04 25 [Warning] Aborted connection 25 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 21:35:58 26 [Warning] Aborted connection 26 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 21:36:38 27 [Warning] Aborted connection 27 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 21:41:17 28 [Warning] Aborted connection 28 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 21:41:47 29 [Warning] Aborted connection 29 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 21:42:38 30 [Warning] Aborted connection 30 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 21:50:33 31 [Warning] Aborted connection 31 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-05 21:58:32 32 [Warning] Aborted connection 32 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-06  9:14:53 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-05-06  9:14:53 0 [Note] InnoDB: Uses event mutexes
+2019-05-06  9:14:53 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-05-06  9:14:53 0 [Note] InnoDB: Number of pools: 1
+2019-05-06  9:14:53 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-05-06  9:14:53 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-05-06  9:14:53 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-05-06  9:14:53 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=2051150
+2019-05-06  9:14:54 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-05-06  9:14:54 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-05-06  9:14:54 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-05-06  9:14:54 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-05-06  9:14:54 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-05-06  9:14:54 0 [Note] InnoDB: Waiting for purge to start
+2019-05-06  9:14:54 0 [Note] InnoDB: 10.3.14 started; log sequence number 2051159; transaction id 497
+2019-05-06  9:14:54 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-05-06  9:14:54 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-05-06  9:14:54 0 [Note] InnoDB: Buffer pool(s) load completed at 190506  9:14:54
+2019-05-06  9:14:54 0 [Note] Server socket created on IP: '::'.
+2019-05-06  9:14:54 0 [Note] Reading of all Master_info entries succeded
+2019-05-06  9:14:54 0 [Note] Added new Master_info '' to hash table
+2019-05-06  9:14:54 0 [Note] mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-05-06  9:17:44 8 [Warning] Aborted connection 8 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-06  9:23:36 9 [Warning] Aborted connection 9 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-06  9:24:24 10 [Warning] Aborted connection 10 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-09 15:48:25 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-05-09 15:48:25 0 [Note] InnoDB: Uses event mutexes
+2019-05-09 15:48:25 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-05-09 15:48:25 0 [Note] InnoDB: Number of pools: 1
+2019-05-09 15:48:25 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-05-09 15:48:25 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-05-09 15:48:25 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-05-09 15:48:26 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=2051168
+2019-05-09 15:48:26 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-05-09 15:48:26 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-05-09 15:48:26 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-05-09 15:48:26 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-05-09 15:48:26 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-05-09 15:48:26 0 [Note] InnoDB: Waiting for purge to start
+2019-05-09 15:48:27 0 [Note] InnoDB: 10.3.14 started; log sequence number 2051177; transaction id 497
+2019-05-09 15:48:27 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-05-09 15:48:27 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-05-09 15:48:27 0 [Note] InnoDB: Buffer pool(s) load completed at 190509 15:48:27
+2019-05-09 15:48:27 0 [Note] Server socket created on IP: '::'.
+2019-05-09 15:48:27 0 [Note] Reading of all Master_info entries succeded
+2019-05-09 15:48:27 0 [Note] Added new Master_info '' to hash table
+2019-05-09 15:48:27 0 [Note] mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-05-09 15:50:32 8 [Warning] Host name 'DESKTOP-2IO976H' could not be resolved: 不知道这样的主机。 
+2019-05-09 16:30:21 9 [Warning] Aborted connection 9 to db: 'fur_model_db' user: 'fur_model' host: '192.168.43.254' (Got an error reading communication packets)
+2019-05-09 16:30:21 8 [Warning] Aborted connection 8 to db: 'fur_model_db' user: 'fur_model' host: '192.168.43.254' (Got an error reading communication packets)
+2019-05-09 16:30:21 10 [Warning] Aborted connection 10 to db: 'fur_model_db' user: 'fur_model' host: '192.168.43.254' (Got an error reading communication packets)
+2019-05-10  9:02:52 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-05-10  9:02:52 0 [Note] InnoDB: Uses event mutexes
+2019-05-10  9:02:52 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-05-10  9:02:52 0 [Note] InnoDB: Number of pools: 1
+2019-05-10  9:02:52 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-05-10  9:02:52 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-05-10  9:02:52 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-05-10  9:02:52 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=2051553
+2019-05-10  9:02:53 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-05-10  9:02:53 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-05-10  9:02:53 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-05-10  9:02:53 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-05-10  9:02:53 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-05-10  9:02:53 0 [Note] InnoDB: Waiting for purge to start
+2019-05-10  9:02:53 0 [Note] InnoDB: 10.3.14 started; log sequence number 2051562; transaction id 507
+2019-05-10  9:02:53 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-05-10  9:02:53 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-05-10  9:02:53 0 [Note] Server socket created on IP: '::'.
+2019-05-10  9:02:53 0 [Note] Reading of all Master_info entries succeded
+2019-05-10  9:02:53 0 [Note] Added new Master_info '' to hash table
+2019-05-10  9:02:53 0 [Note] mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-05-10  9:02:53 0 [Note] InnoDB: Buffer pool(s) load completed at 190510  9:02:53
+2019-05-10  9:14:08 8 [Warning] Aborted connection 8 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:06:21 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-05-14  9:06:21 0 [Note] InnoDB: Uses event mutexes
+2019-05-14  9:06:21 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-05-14  9:06:21 0 [Note] InnoDB: Number of pools: 1
+2019-05-14  9:06:21 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-05-14  9:06:21 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-05-14  9:06:21 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-05-14  9:06:21 0 [Note] InnoDB: The log sequence number 1745179 in the system tablespace does not match the log sequence number 2051596 in the ib_logfiles!
+2019-05-14  9:06:22 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-05-14  9:06:22 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-05-14  9:06:22 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-05-14  9:06:22 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-05-14  9:06:22 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-05-14  9:06:22 0 [Note] InnoDB: Waiting for purge to start
+2019-05-14  9:06:22 0 [Note] InnoDB: 10.3.14 started; log sequence number 2051596; transaction id 507
+2019-05-14  9:06:22 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-05-14  9:06:22 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-05-14  9:06:22 0 [Note] InnoDB: Buffer pool(s) load completed at 190514  9:06:22
+2019-05-14  9:06:22 0 [Note] Server socket created on IP: '::'.
+2019-05-14  9:06:23 0 [Note] Reading of all Master_info entries succeded
+2019-05-14  9:06:23 0 [Note] Added new Master_info '' to hash table
+2019-05-14  9:06:23 0 [Note] mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-05-14  9:09:15 16 [Warning] Aborted connection 16 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:11:23 17 [Warning] Aborted connection 17 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:15:45 18 [Warning] Aborted connection 18 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:16:46 19 [Warning] Aborted connection 19 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:19:01 20 [Warning] Aborted connection 20 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:23:36 21 [Warning] Aborted connection 21 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:24:54 22 [Warning] Aborted connection 22 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:25:13 23 [Warning] Aborted connection 23 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:25:53 24 [Warning] Aborted connection 24 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:30:43 25 [Warning] Aborted connection 25 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:33:43 26 [Warning] Aborted connection 26 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:35:51 27 [Warning] Aborted connection 27 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:36:12 28 [Warning] Aborted connection 28 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:38:03 29 [Warning] Aborted connection 29 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:40:28 30 [Warning] Aborted connection 30 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:45:59 31 [Warning] Aborted connection 31 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:46:52 32 [Warning] Aborted connection 32 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:49:39 33 [Warning] Aborted connection 33 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:51:46 34 [Warning] Aborted connection 34 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14  9:55:12 35 [Warning] Aborted connection 35 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-14 12:25:55 36 [Warning] Aborted connection 36 to db: 'fur_model_db' user: 'fur_model' host: 'localhost' (Got an error reading communication packets)
+2019-05-15  9:37:35 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-05-15  9:37:35 0 [Note] InnoDB: Uses event mutexes
+2019-05-15  9:37:35 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-05-15  9:37:35 0 [Note] InnoDB: Number of pools: 1
+2019-05-15  9:37:35 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-05-15  9:37:35 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-05-15  9:37:35 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-05-15  9:37:35 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=2189017
+2019-05-15  9:37:36 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-05-15  9:37:36 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-05-15  9:37:36 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-05-15  9:37:36 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-05-15  9:37:36 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-05-15  9:37:36 0 [Note] InnoDB: Waiting for purge to start
+2019-05-15  9:37:36 0 [Note] InnoDB: 10.3.14 started; log sequence number 2189026; transaction id 732
+2019-05-15  9:37:36 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-05-15  9:37:36 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-05-15  9:37:36 0 [Note] InnoDB: Buffer pool(s) load completed at 190515  9:37:36
+2019-05-15  9:37:36 0 [Note] Server socket created on IP: '::'.
+2019-05-15  9:37:36 0 [Note] Reading of all Master_info entries succeded
+2019-05-15  9:37:36 0 [Note] Added new Master_info '' to hash table
+2019-05-15  9:37:36 0 [Note] mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-05-15 10:03:03 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-05-15 10:03:03 0 [Note] InnoDB: Uses event mutexes
+2019-05-15 10:03:03 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-05-15 10:03:03 0 [Note] InnoDB: Number of pools: 1
+2019-05-15 10:03:03 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-05-15 10:03:03 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-05-15 10:03:03 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-05-15 10:03:03 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=2189035
+2019-05-15 10:03:03 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-05-15 10:03:03 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-05-15 10:03:03 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-05-15 10:03:03 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-05-15 10:03:03 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-05-15 10:03:03 0 [Note] InnoDB: Waiting for purge to start
+2019-05-15 10:03:03 0 [Note] InnoDB: 10.3.14 started; log sequence number 2189044; transaction id 732
+2019-05-15 10:03:03 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-05-15 10:03:03 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-05-15 10:03:03 0 [Note] Server socket created on IP: '::'.
+2019-05-15 10:03:03 0 [Note] Reading of all Master_info entries succeded
+2019-05-15 10:03:03 0 [Note] Added new Master_info '' to hash table
+2019-05-15 10:03:03 0 [Note] mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-05-15 10:03:03 0 [Note] InnoDB: Buffer pool(s) load completed at 190515 10:03:03
+2019-05-15 10:05:44 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-05-15 10:05:44 0 [Note] InnoDB: Uses event mutexes
+2019-05-15 10:05:44 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-05-15 10:05:44 0 [Note] InnoDB: Number of pools: 1
+2019-05-15 10:05:44 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-05-15 10:05:44 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-05-15 10:05:44 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-05-15 10:05:44 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=2189053
+2019-05-15 10:05:44 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-05-15 10:05:44 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-05-15 10:05:44 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-05-15 10:05:44 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-05-15 10:05:44 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-05-15 10:05:44 0 [Note] InnoDB: Waiting for purge to start
+2019-05-15 10:05:45 0 [Note] InnoDB: 10.3.14 started; log sequence number 2189062; transaction id 732
+2019-05-15 10:05:45 0 [Note] InnoDB: Loading buffer pool(s) from D:\mariadb-10.3.14-winx64\bin\data\ib_buffer_pool
+2019-05-15 10:05:45 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-05-15 10:05:45 0 [Note] Server socket created on IP: '::'.
+2019-05-15 10:05:45 0 [Note] Reading of all Master_info entries succeded
+2019-05-15 10:05:45 0 [Note] Added new Master_info '' to hash table
+2019-05-15 10:05:45 0 [Note] mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-05-15 10:05:45 0 [Note] InnoDB: Buffer pool(s) load completed at 190515 10:05:45
